@@ -10,7 +10,7 @@
 
 
 <table align="center">
-    <form action="test.php" method="post">
+    <form action="commentpost.php" method="post">
         <tr>
             <td>
                 <?php function  readLast()
